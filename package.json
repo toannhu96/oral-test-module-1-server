@@ -2,9 +2,9 @@
   "name": "coderschool-module-1-api",
   "version": "1.0.0",
   "description": "instant api by json-server",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/index.js localhost:8080"
+    "start": "nodemon src/server.js localhost:8080"
   },
   "dependencies": {
     "faker": "6.6.6",
