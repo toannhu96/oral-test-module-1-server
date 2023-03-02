@@ -8,10 +8,9 @@
   },
   "dependencies": {
     "faker": "6.6.6",
-    "json-server": "0.17.0"
-  },
-  "devDependencies": {
+    "json-server": "0.17.0",
     "nodemon": "^1.18.4"
   },
+  "devDependencies": {},
   "keywords": []
 }
